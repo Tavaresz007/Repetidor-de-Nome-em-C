@@ -11,9 +11,3 @@ O programa solicita que o usuário digite um nome e, em seguida, imprime esse no
 - Leitura de um nome do usuário.
 - Contagem do tamanho do nome usando `strlen()`.
 - Impressão do nome repetidamente com base no tamanho do mesmo.
-
-## Como usar
-
-1. Compile o código usando um compilador C, por exemplo:
-   ```bash
-   gcc nome_programa.c -o nome_programa
